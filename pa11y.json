@@ -1,0 +1,6 @@
+
+pa11y("https://pa11y.org//", {
+    "actions": [
+        "navigate to https://pa11y.org/news/"
+    ]
+});
